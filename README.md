@@ -23,3 +23,4 @@ In order to build you have:
 
 The Matlab App is also available on Mathworks:
 [PMU Test Signal Generator](https://it.mathworks.com/matlabcentral/fileexchange/96384-pmu-test-signal-generator?s_tid=prof_contriblnk)
+[![View PMU Test Signal Generator on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/96384-pmu-test-signal-generator)
